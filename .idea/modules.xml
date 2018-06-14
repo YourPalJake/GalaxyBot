@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GalaxyBot.iml" filepath="$PROJECT_DIR$/GalaxyBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameBot/GameBot.iml" filepath="$PROJECT_DIR$/GameBot/GameBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HostBot/HostBot.iml" filepath="$PROJECT_DIR$/HostBot/HostBot.iml" />
     </modules>
   </component>
 </project>
